@@ -2,7 +2,12 @@
 
 # ORCA36 demonstrator
 
-![plot](https://github.com/immerse-project/ORCA36-demonstrator/blob/main/figs/plot_00000_3_LOW.png)<br>
+This page describe the way to build a global 1/36° global configuration (ORCA36) based on  [NEMO OGCM](https://www.nemo-ocean.eu/).
+
+This bench represents the milestone MS6.2 "Configuration available for final HPC tests in WP4" for IMMERSE project.
+
+
+![plot](https://github.com/immerse-project/ORCA36-demonstrator/blob/main/figs/socurloverf_ORCA36-T404_ALL_2014-06-30_00_RdBu_low.png)<br>
 
 
 ## Installation
@@ -30,9 +35,9 @@ and recompile                                 : ``` ./makenemo -m your_archfile 
 
 example of script to launche the model        : [script](SCRIPT/NEMO.sub)
 
-ORCA36 Namelists                              : [namelist] (NAMLST/)
+ORCA36 Namelists                              : [namelist](NAMLST/)
 
-XIOS files                                    : [XIOS files] (XML/)
+XIOS files                                    : [XIOS files](XML/)
 
 Configuration files: ``` ftp://ftp.mercator-ocean.fr/download/users/cbricaud/BENCH-ORCA36-INPUT.tar.gz ```
 
