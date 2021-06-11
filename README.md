@@ -2,7 +2,7 @@
 
 # ORCA36 demonstrator
 
-![plot](https://github.com/immerse-project/ORCA36-demonstrator/blob/main/figs/socurloverf_ORCA36-T404_ALL_2014-06-30_00_RdBu05.png)<br>
+![plot](https://github.com/immerse-project/ORCA36-demonstrator/blob/main/figs/plot_00000_3_LOW.png)<br>
 
 
 ## Installation
@@ -33,4 +33,4 @@ example of script to launche the model        : SCRIPT/NEMO.sub
 ORCA36 Namelists                              : NAMLST
 
 XIOS files                                    : XML
-~                                                  
+
