@@ -28,9 +28,14 @@ and recompile                                 : ``` ./makenemo -m your_archfile 
 
 ## Execution
 
-example of script to launche the model        : SCRIPT/NEMO.sub
+example of script to launche the model        : [script](SCRIPT/NEMO.sub)
 
-ORCA36 Namelists                              : NAMLST
+ORCA36 Namelists                              : [namelist] (NAMLST/)
 
-XIOS files                                    : XML
+XIOS files                                    : [XIOS files] (XML/)
+
+Configuration files: ``` ftp://ftp.mercator-ocean.fr/download/users/cbricaud/BENCH-ORCA36-INPUT.tar.gz ```
+
+Forcing files      : ``` ftp://ftp.mercator-ocean.fr/download/users/cbricaud/BENCH-ORCA36-INPUT.tar.gz ```
+
 
