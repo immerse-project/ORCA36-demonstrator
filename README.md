@@ -1,4 +1,6 @@
 # ORCA36 demonstrator
+[plot](https://github.com/immerse-project/ORCA36-demonstrator/blob/main/figs/plot_00000_LOW_05.png)<br>
+*Figure 1: Voriticity
 
 #installation
 
