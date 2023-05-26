@@ -4,7 +4,14 @@
 
 This page describe the way to build a global 1/36° global configuration (ORCA36) based on  [NEMO OGCM](https://www.nemo-ocean.eu/).
 
+This bench has been developped in the framework of the EU H2020 [IMMERSE project](https://immerse-ocean.eu/) and [ESIWACE2 project](https://www.esiwace.eu/the-project/past-phases/esiwace2-1)
+
+![logos](figs/IMMERSE_ESIWACE2_projects.png)
+
+
+
 This bench represents the milestone MS31 "Configuration available for final HPC tests in WP4" for IMMERSE project.
+
 
 
 ![plot](https://github.com/immerse-project/ORCA36-demonstrator/blob/main/figs/socurloverf_ORCA36-T404_ALL_2014-06-30_01_RdBu_low.png)<br>
